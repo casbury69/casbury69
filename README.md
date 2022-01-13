@@ -1,4 +1,4 @@
 - Hi, I’m @casbury69
-- I’m a faculty member in the Department of Physiology and Biophysics, University of Washington, Seattle WA, USA.
+- I’m a faculty member in the Department of Physiology & Biophysics, University of Washington School of Medicine, Seattle WA, USA.
 - I intend to use this GitHub to post custom software that my laboratory uses for the collection and analysis of biophysical data.
 - I can best be reached via email (casbury@uw.edu).
